@@ -3,7 +3,7 @@
 ## About the Project
 
 	Lifeguard Exam Practice App is a mobile app developed with the mission of preparing future 
-	lifeguardsin Portugal for their final exam. The app allows students to choose a topic to 
+	lifeguards in Portugal for their final exam. The app allows students to choose a topic to 
 	practice or to simulate an exam. In the exam mode, after submiting their answers, students 
 	can see the total number of correct and incorrect answers to check if they have passed or 
 	failed the exam. 
