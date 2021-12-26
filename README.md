@@ -1,4 +1,4 @@
-# Lifeguard-Exam-Practice-App
+# Lifeguard Exam Practice App
 
 ## About the Project
 
