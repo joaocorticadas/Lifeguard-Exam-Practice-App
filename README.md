@@ -13,6 +13,7 @@
 
 
 ## Run the App
-		To run the app, clone the file to your computer and ensure you have NodeJs and Expo installed. 
+		To run the app, clone the file to your computer and ensure you have NodeJs and 
+		Expo installed. 
 		
 		
